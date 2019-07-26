@@ -94,15 +94,16 @@ margin: 20px;
 }
 .sub-container .list-container a{
 
-border-top:2px solid #2A2A4D;
 font-size: 20px;
 
+}
+.sub-container .list-container .group-header {
+    border-top:2px solid #2A2A4D; 
 }
 .sub-container .list-container .group-header a{
     color:white;
 font-weight: 800;
 font-size: 25px;
-
 }
 .sub-container .list-container  a:hover{
     color:white;
